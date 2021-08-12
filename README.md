@@ -27,3 +27,7 @@ this is a **bold text** this is written in *italics* and here it is normal again
 |----|----|
 |john|Doe|
 |my|Name|
+
+
+😸
+🐈‍⬛

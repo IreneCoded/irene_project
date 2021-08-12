@@ -34,3 +34,6 @@ this is a **bold text** this is written in *italics* and here it is normal again
 
 
 `just a code test, i really don'T want to show how bad i am`
+
+the horizontal line goes with three dashes
+---
